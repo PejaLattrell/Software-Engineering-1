@@ -6,7 +6,7 @@ public class BlackCoffee implements Coffee{
 
     }
     public double getCost(){
-        return 2.0;
+        return 100.0;
     }
 }
 
